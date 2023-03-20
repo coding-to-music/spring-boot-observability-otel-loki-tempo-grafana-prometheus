@@ -1,3 +1,29 @@
+ spring-boot-observability-otel-loki-tempo-grafana-prometheus
+
+# 🚀 Observe Spring Boot app with three pillars of observability: Traces (Tempo), Metrics (Prometheus), Logs (Loki) on Grafana through OpenTelemetry and OpenMetrics. 🚀
+
+https://github.com/coding-to-music/spring-boot-observability-otel-loki-tempo-grafana-prometheus
+
+From / By https://github.com/blueswen/spring-boot-observability
+
+## Environment variables:
+
+```java
+
+```
+
+## GitHub
+
+```java
+git init
+git add .
+git remote remove origin
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:coding-to-music/spring-boot-observability-otel-loki-tempo-grafana-prometheus.git
+git push -u origin main
+```
+
 # Spring Boot with Observability
 
 Observe the Spring Boot application with three pillars of observability on [Grafana](https://github.com/grafana/grafana):

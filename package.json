@@ -1,0 +1,13 @@
+{
+  "name": "spring-boot-observability-otel-loki-tempo-grafana-prometheus",
+  "version": "1.0.0",
+  "description": "Observe the Spring Boot application with three pillars of observability on [Grafana](https://github.com/grafana/grafana):",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "git add . && git commit -m Build && git push",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
